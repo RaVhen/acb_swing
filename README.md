@@ -6,6 +6,6 @@ All credits go to Aezay
 
 I made it work for 6.2 with the new api
 
-Works really fine for one handed
+Works really fine for two handed weapon
 
 Dual wielding only approximate the swing time value
